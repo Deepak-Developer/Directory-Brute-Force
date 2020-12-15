@@ -17,7 +17,7 @@ import java.util.Set;
 
 import javax.net.ssl.*;
 
-public class Main{
+public class Existance{
 	public static void main(String[] args) throws Exception{
 		
 		/* Download wordlist file 
